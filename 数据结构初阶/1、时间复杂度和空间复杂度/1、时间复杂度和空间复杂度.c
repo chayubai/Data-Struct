@@ -5,7 +5,7 @@
 //long long Fib_r(size_t N)
 //{
 //	return N < 2 ? N : Fib_r(N - 1) + Fib_r(N - 2);
-//}
+//} 
 //
 //#include <stdio.h>
 //#include <stdlib.h>
